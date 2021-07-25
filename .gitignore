@@ -1,0 +1,6 @@
+.vscode
+.idea
+__debug_bin
+.bin
+
+*.png
